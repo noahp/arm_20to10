@@ -101,23 +101,7 @@ F 3 "" H 4000 5200 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4000 2700 4000 3000
-Wire Wire Line
-	4000 3000 4000 3300
-Wire Wire Line
-	4000 3300 4000 3600
-Wire Wire Line
-	4000 3600 4000 3900
-Wire Wire Line
-	4000 3900 4000 4200
-Wire Wire Line
-	4000 4200 4000 4500
-Wire Wire Line
-	4000 4500 4000 4800
-Wire Wire Line
-	4000 4800 4000 5100
-Wire Wire Line
-	4000 5100 4000 5200
+	4000 2700 4000 5200
 Wire Wire Line
 	4000 5100 3900 5100
 Wire Wire Line
@@ -205,9 +189,7 @@ Wire Wire Line
 Text GLabel 4100 2400 2    60   Input ~ 0
 VCC
 Wire Wire Line
-	3900 2400 4000 2400
-Wire Wire Line
-	4000 2400 4100 2400
+	3900 2400 4100 2400
 Wire Wire Line
 	4000 2400 4000 2250
 Wire Wire Line
