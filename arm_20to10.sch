@@ -37,7 +37,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "30 jan 2014"
+Date "31 jan 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -269,4 +269,28 @@ F 3 "" H 6000 4050 60  0000 C CNN
 	1    6000 4050
 	1    0    0    -1  
 $EndComp
+$Comp
+L GND #PWR06
+U 1 1 52EBCB6E
+P 6050 2800
+F 0 "#PWR06" H 6050 2800 30  0001 C CNN
+F 1 "GND" H 6050 2730 30  0001 C CNN
+F 2 "" H 6050 2800 60  0000 C CNN
+F 3 "" H 6050 2800 60  0000 C CNN
+	1    6050 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L TST P4
+U 1 1 52EBCB74
+P 6050 2700
+F 0 "P4" H 6050 3000 40  0000 C CNN
+F 1 "GND" H 6050 2950 30  0000 C CNN
+F 2 "~" H 6050 2700 60  0000 C CNN
+F 3 "~" H 6050 2700 60  0000 C CNN
+	1    6050 2700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6050 2700 6050 2800
 $EndSCHEMATC
