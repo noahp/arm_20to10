@@ -18,3 +18,7 @@ http://www.ebay.com/itm/12-pcs-Gold-Plated-1-27mm-2x40-80pin-Breakable-Pin-Heade
 -----
 http://www.digikey.com/product-detail/en/SFH11-PBPC-D10-ST-BK/S9197-ND/1990090  
 http://www.ebay.com/itm/20-Pcs-2x10-Double-Row-20-Pins-PCB-Female-Header-2-54mm-/400316132430?pt=LH_DefaultDomain_0&hash=item5d34b36c4e  
+
+3.3v ldo
+-----
+http://www.mouser.com/ProductDetail/Skyworks-Solutions-Inc/AAT3221IGV-33-T1/?qs=sGAEpiMZZMsGz1a6aV8DcBc9KxeEYlaaOpNkyXE4fHc%3d  
