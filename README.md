@@ -10,21 +10,21 @@ parts
 =====
 10 pin through hole male connector
 -----
-http://www.digikey.com/product-detail/en/20021111-00010T4LF/609-3712-ND/2209072  
-http://www.mouser.com/ProductDetail/FCI/20021111-00010T4LF/?qs=sGAEpiMZZMs%252bGHln7q6pmwodwKqstCempwNsK2c%2fC6s%3d  
-http://www.ebay.com/itm/12-pcs-Gold-Plated-1-27mm-2x40-80pin-Breakable-Pin-Header-Male-Double-Row-Strip-/370935487630?pt=LH_DefaultDomain_0&hash=item565d7a5c8e
+[digikey](http://www.digikey.com/product-detail/en/20021111-00010T4LF/609-3712-ND/2209072)  
+[mouser](http://www.mouser.com/ProductDetail/FCI/20021111-00010T4LF/?qs=sGAEpiMZZMs%252bGHln7q6pmwodwKqstCempwNsK2c%2fC6s%3d)  
+[ebay](http://www.ebay.com/itm/12-pcs-Gold-Plated-1-27mm-2x40-80pin-Breakable-Pin-Header-Male-Double-Row-Strip-/370935487630?pt=LH_DefaultDomain_0&hash=item565d7a5c8e)
 
 20 pin through hole female connector
 -----
-http://www.digikey.com/product-detail/en/SFH11-PBPC-D10-ST-BK/S9197-ND/1990090  
-http://www.ebay.com/itm/20-Pcs-2x10-Double-Row-20-Pins-PCB-Female-Header-2-54mm-/400316132430?pt=LH_DefaultDomain_0&hash=item5d34b36c4e  
+[digikey](http://www.digikey.com/product-detail/en/SFH11-PBPC-D10-ST-BK/S9197-ND/1990090)  
+[ebay](http://www.ebay.com/itm/20-Pcs-2x10-Double-Row-20-Pins-PCB-Female-Header-2-54mm-/400316132430?pt=LH_DefaultDomain_0&hash=item5d34b36c4e)  
 
 3.3v ldo
 -----
-http://www.mouser.com/ProductDetail/Skyworks-Solutions-Inc/AAT3221IGV-33-T1/?qs=sGAEpiMZZMsGz1a6aV8DcBc9KxeEYlaaOpNkyXE4fHc%3d  
-http://www.mouser.com/ProductDetail/Texas-Instruments/LP5907MFX-33-NOPB/?qs=sGAEpiMZZMsGz1a6aV8DcHd1yzolGFo2Xmtn9ZKMxmA%3d
+[mouser- skyworks sot23-5](http://www.mouser.com/ProductDetail/Skyworks-Solutions-Inc/AAT3221IGV-33-T1/?qs=sGAEpiMZZMsGz1a6aV8DcBc9KxeEYlaaOpNkyXE4fHc%3d)  
+[mouser- TI sot23-5](http://www.mouser.com/ProductDetail/Texas-Instruments/LP5907MFX-33-NOPB/?qs=sGAEpiMZZMsGz1a6aV8DcHd1yzolGFo2Xmtn9ZKMxmA%3d)
 
 slide switch
 -----
-http://www.mouser.com/ProductDetail/CK-Components/PCM12SMTR/?qs=sGAEpiMZZMsqIr59i2oRcvc9UQrBbcoBkFYgnQFYwWU%3d  
-http://www.mouser.com/ProductDetail/ALPS/SSSS810701/?qs=sGAEpiMZZMtHXLepoqNyVe%252bcQMRoBF1BAzyvwoNmgBo%3d  
+[mouser- C&K](http://www.mouser.com/ProductDetail/CK-Components/PCM12SMTR/?qs=sGAEpiMZZMsqIr59i2oRcvc9UQrBbcoBkFYgnQFYwWU%3d)  
+[mouser- ALPS](http://www.mouser.com/ProductDetail/ALPS/SSSS810701/?qs=sGAEpiMZZMtHXLepoqNyVe%252bcQMRoBF1BAzyvwoNmgBo%3d)  
