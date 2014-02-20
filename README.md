@@ -22,3 +22,9 @@ http://www.ebay.com/itm/20-Pcs-2x10-Double-Row-20-Pins-PCB-Female-Header-2-54mm-
 3.3v ldo
 -----
 http://www.mouser.com/ProductDetail/Skyworks-Solutions-Inc/AAT3221IGV-33-T1/?qs=sGAEpiMZZMsGz1a6aV8DcBc9KxeEYlaaOpNkyXE4fHc%3d  
+http://www.mouser.com/ProductDetail/Texas-Instruments/LP5907MFX-33-NOPB/?qs=sGAEpiMZZMsGz1a6aV8DcHd1yzolGFo2Xmtn9ZKMxmA%3d
+
+slide switch
+-----
+http://www.mouser.com/ProductDetail/CK-Components/PCM12SMTR/?qs=sGAEpiMZZMsqIr59i2oRcvc9UQrBbcoBkFYgnQFYwWU%3d  
+http://www.mouser.com/ProductDetail/ALPS/SSSS810701/?qs=sGAEpiMZZMtHXLepoqNyVe%252bcQMRoBF1BAzyvwoNmgBo%3d  
