@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 2/20/2014 12:34:28
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 2/20/2014 12:39:37
 
 BeginCmp
 TimeStamp = /52FC308F;
@@ -29,34 +29,6 @@ IdModule  = ARM_10_PIN;
 EndCmp
 
 BeginCmp
-TimeStamp = /52E9A2C6;
-Reference = P1;
-ValeurCmp = +5V;
-IdModule  = TEST_0.100;
-EndCmp
-
-BeginCmp
-TimeStamp = /52E9A439;
-Reference = P2;
-ValeurCmp = VCC;
-IdModule  = TEST_0.100;
-EndCmp
-
-BeginCmp
-TimeStamp = /52E9A4F0;
-Reference = P3;
-ValeurCmp = GND;
-IdModule  = TEST_0.100;
-EndCmp
-
-BeginCmp
-TimeStamp = /52EBCB74;
-Reference = P4;
-ValeurCmp = GND;
-IdModule  = TEST_0.100;
-EndCmp
-
-BeginCmp
 TimeStamp = /52FC3911;
 Reference = SW1;
 ValeurCmp = DUAL_SWITCH_INV;
@@ -66,7 +38,7 @@ EndCmp
 BeginCmp
 TimeStamp = /52FC2F3B;
 Reference = U1;
-ValeurCmp = AAT3221;
+ValeurCmp = AAT3221 or LP5907;
 IdModule  = SOT23-5;
 EndCmp
 
