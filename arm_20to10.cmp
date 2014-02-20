@@ -1,4 +1,18 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 1/31/2014 11:11:38
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 2/20/2014 12:34:28
+
+BeginCmp
+TimeStamp = /52FC308F;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FC3072;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = SM0603;
+EndCmp
 
 BeginCmp
 TimeStamp = /52E9849C;
@@ -40,6 +54,20 @@ TimeStamp = /52EBCB74;
 Reference = P4;
 ValeurCmp = GND;
 IdModule  = TEST_0.100;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FC3911;
+Reference = SW1;
+ValeurCmp = DUAL_SWITCH_INV;
+IdModule  = SWITCH_SLIDE_SSSS810701;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FC2F3B;
+Reference = U1;
+ValeurCmp = AAT3221;
+IdModule  = SOT23-5;
 EndCmp
 
 EndListe
