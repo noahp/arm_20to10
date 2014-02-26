@@ -21,8 +21,9 @@ parts
 
 3.3v ldo
 -----
-[mouser- skyworks sot23-5](http://www.mouser.com/ProductDetail/Skyworks-Solutions-Inc/AAT3221IGV-33-T1/?qs=sGAEpiMZZMsGz1a6aV8DcBc9KxeEYlaaOpNkyXE4fHc%3d)  
-[mouser- TI sot23-5](http://www.mouser.com/ProductDetail/Texas-Instruments/LP5907MFX-33-NOPB/?qs=sGAEpiMZZMsGz1a6aV8DcHd1yzolGFo2Xmtn9ZKMxmA%3d)
+[mouser- skyworks sot23-5](http://www.mouser.com/ProductDetail/Skyworks-Solutions-Inc/AAT3223IGU-33-T1/?qs=sGAEpiMZZMsGz1a6aV8DcBc9KxeEYlaaHoWA415Wy2k%3d)  
+[mouser- TI sot23-5](http://www.mouser.com/ProductDetail/Texas-Instruments/LP5907MFX-33-NOPB/?qs=sGAEpiMZZMsGz1a6aV8DcHd1yzolGFo2Xmtn9ZKMxmA%3d)  
+[mouser- Micrel 4-DFN 300mA](http://www.mouser.com/ProductDetail/Micrel/MIC5504-33YMT-T5/?qs=sGAEpiMZZMsGz1a6aV8DcOT%252bROh543eTKGEDbbC6ZTY%3d)
 
 slide switch
 -----
