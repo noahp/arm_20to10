@@ -23,9 +23,11 @@ parts
 -----
 [mouser- skyworks sot23-5](http://www.mouser.com/ProductDetail/Skyworks-Solutions-Inc/AAT3223IGU-33-T1/?qs=sGAEpiMZZMsGz1a6aV8DcBc9KxeEYlaaHoWA415Wy2k%3d)  
 [mouser- TI sot23-5](http://www.mouser.com/ProductDetail/Texas-Instruments/LP5907MFX-33-NOPB/?qs=sGAEpiMZZMsGz1a6aV8DcHd1yzolGFo2Xmtn9ZKMxmA%3d)  
+[digikey- TI sot23-5](http://www.digikey.com/product-detail/en/TLV70233DBVR/296-32415-1-ND/3505572)  
 [mouser- Micrel 4-DFN 300mA](http://www.mouser.com/ProductDetail/Micrel/MIC5504-33YMT-T5/?qs=sGAEpiMZZMsGz1a6aV8DcOT%252bROh543eTKGEDbbC6ZTY%3d) | [drawing](http://www.micrel.com/_Packages/TDFN1010-4LD-PL-1.pdf)  
 
 slide switch
 -----
 [mouser- C&K](http://www.mouser.com/ProductDetail/CK-Components/PCM12SMTR/?qs=sGAEpiMZZMsqIr59i2oRcvc9UQrBbcoBkFYgnQFYwWU%3d)  
+[digikey- Copal](http://www.digikey.com/product-detail/en/CUS-12TB/563-1102-1-ND/1124231)  
 [mouser- ALPS](http://www.mouser.com/ProductDetail/ALPS/SSSS810701/?qs=sGAEpiMZZMtHXLepoqNyVe%252bcQMRoBF1BAzyvwoNmgBo%3d)  
