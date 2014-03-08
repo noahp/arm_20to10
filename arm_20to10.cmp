@@ -1,16 +1,30 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 2/20/2014 12:39:37
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 3/8/2014 11:22:31 AM
 
 BeginCmp
-TimeStamp = /52FC308F;
+TimeStamp = /531B43FC;
 Reference = C1;
-ValeurCmp = C;
+ValeurCmp = 1.0uF;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /52FC3072;
 Reference = C2;
-ValeurCmp = C;
+ValeurCmp = 1.0uF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /531B42E2;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /531B4083;
+Reference = D2;
+ValeurCmp = LED;
 IdModule  = SM0603;
 EndCmp
 
@@ -26,6 +40,20 @@ TimeStamp = /52E97CAC;
 Reference = J2;
 ValeurCmp = ARM_10PIN;
 IdModule  = ARM_10_PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /531B42E8;
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /531B40CC;
+Reference = R2;
+ValeurCmp = 500R;
+IdModule  = SM0603;
 EndCmp
 
 BeginCmp
