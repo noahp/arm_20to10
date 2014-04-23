@@ -37,7 +37,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "8 mar 2014"
+Date "23 apr 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -67,12 +67,6 @@ F 3 "~" H 3400 3500 60  0000 C CNN
 	1    3400 3500
 	1    0    0    -1  
 $EndComp
-Text GLabel 3950 3150 2    60   Input ~ 0
-TMS/SWDIO
-Text GLabel 3950 4050 2    60   Input ~ 0
-SWO/TDO
-Text GLabel 3950 4350 2    60   Input ~ 0
-NRST
 Wire Wire Line
 	3950 3150 3850 3150
 Wire Wire Line
@@ -81,12 +75,8 @@ Wire Wire Line
 	3950 4050 3850 4050
 Wire Wire Line
 	3950 4350 3850 4350
-Text GLabel 3950 2850 2    60   Input ~ 0
-TDI
 Wire Wire Line
 	3950 2850 3850 2850
-Text GLabel 3950 2550 2    60   Input ~ 0
-TRST
 Wire Wire Line
 	3950 2550 3850 2550
 $Comp
@@ -132,8 +122,6 @@ Wire Wire Line
 	3950 3750 3850 3750
 Wire Wire Line
 	6000 4650 6100 4650
-Text GLabel 5950 5100 0    60   Input ~ 0
-NRST
 Wire Wire Line
 	5950 5100 6050 5100
 $Comp
@@ -153,30 +141,18 @@ Wire Wire Line
 	6100 4350 6000 4350
 Wire Wire Line
 	6100 4050 6000 4050
-Text GLabel 5950 3900 0    60   Input ~ 0
-TMS/SWDIO
 Wire Wire Line
 	5950 3900 6050 3900
 Wire Wire Line
 	5950 4200 6050 4200
-Text GLabel 5950 4500 0    60   Input ~ 0
-SWO/TDO
 Wire Wire Line
 	6050 4500 5950 4500
-Text GLabel 5950 4800 0    60   Input ~ 0
-TDI
 Wire Wire Line
 	5950 4800 6050 4800
-Text GLabel 3950 4950 2    60   Input ~ 0
-5V
 Wire Wire Line
 	3950 4950 3850 4950
-Text GLabel 6000 3750 0    60   Input ~ 0
-VCC
 Wire Wire Line
 	6100 3750 6000 3750
-Text GLabel 4100 2400 2    60   Input ~ 0
-VCC
 Wire Wire Line
 	3900 2400 4100 2400
 Wire Wire Line
@@ -185,10 +161,6 @@ Wire Wire Line
 	4000 2250 3850 2250
 Connection ~ 4000 2400
 NoConn ~ 3850 4650
-Text GLabel 3950 3750 2    60   Input ~ 0
-RTCK
-Text GLabel 6000 4650 0    60   Input ~ 0
-RTCK
 $Comp
 L GND #PWR03
 U 1 1 52E9A6FB
@@ -200,10 +172,6 @@ F 3 "" H 6000 4350 60  0000 C CNN
 	1    6000 4350
 	1    0    0    -1  
 $EndComp
-Text GLabel 3950 3450 2    60   Input ~ 0
-TCLK/SWCLK
-Text GLabel 5950 4200 0    60   Input ~ 0
-TCLK/SWCLK
 $Comp
 L GND #PWR04
 U 1 1 52E9A838
@@ -238,8 +206,6 @@ F 3 "~" H 8550 2200 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 NoConn ~ 8400 2000
-Text GLabel 6750 1400 0    60   Input ~ 0
-5V
 Wire Wire Line
 	6750 1400 6850 1400
 Wire Wire Line
@@ -266,8 +232,6 @@ Wire Wire Line
 Wire Wire Line
 	7100 2200 6850 2200
 Connection ~ 6850 2200
-Text GLabel 7300 2350 0    60   Input ~ 0
-5V
 Wire Wire Line
 	7300 2000 7300 2350
 $Comp
@@ -283,8 +247,6 @@ F 3 "" H 8550 2500 60  0000 C CNN
 $EndComp
 Wire Wire Line
 	8550 2500 8550 2400
-Text GLabel 10000 1800 2    60   Input ~ 0
-VCC
 $Comp
 L DUAL_SWITCH_INV SW1
 U 1 1 52FC3911
@@ -299,12 +261,8 @@ $EndComp
 NoConn ~ 9650 1600
 Wire Wire Line
 	8650 1700 8400 1700
-Text Notes 9300 2950 0    60   ~ 0
-NOPOP
 Wire Wire Line
 	10000 1800 9650 1800
-Wire Wire Line
-	8550 1600 8550 2000
 Connection ~ 8550 1700
 $Comp
 L LED D2
@@ -345,8 +303,6 @@ F 3 "" H 8550 1200 60  0000 C CNN
 $EndComp
 Wire Wire Line
 	9250 1100 9150 1100
-Wire Notes Line
-	10350 900  6400 900 
 $Comp
 L LED D1
 U 1 1 531B42E2
@@ -380,12 +336,6 @@ F 3 "" H 6600 2800 60  0000 C CNN
 	1    6600 2800
 	1    0    0    -1  
 $EndComp
-Wire Notes Line
-	6400 3000 10350 3000
-Wire Notes Line
-	10350 3000 10350 900 
-Wire Notes Line
-	6400 900  6400 3000
 Wire Wire Line
 	6600 2700 6600 2800
 Wire Wire Line
@@ -411,4 +361,44 @@ F 3 "~" H 6850 1900 60  0000 C CNN
 	1    6850 1900
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	8550 2000 8550 1700
+Text Label 4100 2400 0    60   ~ 0
+VCC
+Text Label 6000 3750 2    60   ~ 0
+VCC
+Text Label 10000 1800 0    60   ~ 0
+VCC
+Text Label 3950 2550 0    60   ~ 0
+TRST
+Text Label 3950 2850 0    60   ~ 0
+TDI
+Text Label 3950 3150 0    60   ~ 0
+TMS/SWDIO
+Text Label 3950 3450 0    60   ~ 0
+TCLK/SWCLK
+Text Label 3950 3750 0    60   ~ 0
+RTCK
+Text Label 3950 4050 0    60   ~ 0
+SWO/TDO
+Text Label 3950 4350 0    60   ~ 0
+NRST
+Text Label 3950 4950 0    60   ~ 0
+5V
+Text Label 6750 1400 2    60   ~ 0
+5V
+Text Label 7300 2350 2    60   ~ 0
+5V
+Text Label 5950 3900 2    60   ~ 0
+TMS/SWDIO
+Text Label 5950 4200 2    60   ~ 0
+TCLK/SWCLK
+Text Label 5950 4500 2    60   ~ 0
+SWO/TDO
+Text Label 6000 4650 2    60   ~ 0
+RTCK
+Text Label 5950 4800 2    60   ~ 0
+TDI
+Text Label 5950 5100 2    60   ~ 0
+NRST
 $EndSCHEMATC
