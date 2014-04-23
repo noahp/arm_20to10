@@ -4,7 +4,7 @@ arm_20to10
 
 render
 =====
-![front](https://raw2.github.com/noahp/arm_20to10/v0.3/front.png). . . . . .  ![back](https://raw2.github.com/noahp/arm_20to10/v0.3/back.png)
+![front](https://raw.githubusercontent.com/noahp/arm_20to10/master/front.png). . . . . .  ![back](https://raw.githubusercontent.com/noahp/arm_20to10/master/back.png)
 
 parts
 =====
