@@ -28,6 +28,11 @@ parts
 [digikey- TI sot23-5](http://www.digikey.com/product-detail/en/TLV70233DBVR/296-32415-1-ND/3505572)  
 [mouser- Micrel 4-DFN 300mA](http://www.mouser.com/ProductDetail/Micrel/MIC5504-33YMT-T5/?qs=sGAEpiMZZMsGz1a6aV8DcOT%252bROh543eTKGEDbbC6ZTY%3d) | [drawing](http://www.micrel.com/_Packages/TDFN1010-4LD-PL-1.pdf)  
 
+beefier ldo
+----
+[mouser- ON](http://www.mouser.com/ProductDetail/ON-Semiconductor/NCP1117LPST33T3G/?qs=sGAEpiMZZMsGz1a6aV8DcG1%252bflTKYVRGzugDxB67PIA%3d)  
+[mouser- diodes](http://www.mouser.com/ProductDetail/Diodes-Incorporated/AP1117IE33G-13/?qs=sGAEpiMZZMsGz1a6aV8DcCIlKWhD2GibreMCbJvWdNw%3d)  
+
 slide switch
 -----
 [mouser- C&K](http://www.mouser.com/ProductDetail/CK-Components/PCM12SMTR/?qs=sGAEpiMZZMsqIr59i2oRcvc9UQrBbcoBkFYgnQFYwWU%3d)  
