@@ -530,7 +530,7 @@
   (gr_line (start 200.406 148.844) (end 191.262 148.844) (angle 90) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 191.262 120.396) (end 200.406 120.396) (angle 90) (layer Edge.Cuts) (width 0.1))
   (gr_circle (center 196.342 143.51) (end 196.215 143.51) (layer F.SilkS) (width 0.2))
-  (gr_text "arm20to10\nv0.4\ngit.io/MUTo-A" (at 198.501 142.494 90) (layer B.Mask)
+  (gr_text "arm20to10\nv0.4\ngit.io/7mbuGg" (at 198.501 142.494 90) (layer B.Mask)
     (effects (font (size 0.75 0.65) (thickness 0.12)) (justify mirror))
   )
 
