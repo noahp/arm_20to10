@@ -20,6 +20,7 @@ parts
 -----
 [digikey](http://www.digikey.com/product-detail/en/SFH11-PBPC-D10-ST-BK/S9197-ND/1990090)  
 [ebay](http://www.ebay.com/itm/20-Pcs-2x10-Double-Row-20-Pins-PCB-Female-Header-2-54mm-/400316132430?pt=LH_DefaultDomain_0&hash=item5d34b36c4e)  
+[digkey right angle](http://www.digikey.com/product-detail/en/SFH11-PBPC-D10-RA-BK/S9205-ND/1990098)  
 
 3.3v ldo
 -----
