@@ -1,73 +1,73 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 10/27/2014 8:08:07 AM
+Cmp-Mod V01 Created by Cvpcb (2014-10-18 BZR 5203)-product   date = 10/28/2014 3:20:08 PM
 
 BeginCmp
 TimeStamp = /531B43FC;
 Reference = C1;
 ValeurCmp = 1.0uF;
-IdModule  = SM0402_np;
+IdModule  = SMD_Packages:SMD-0603_c;
 EndCmp
 
 BeginCmp
 TimeStamp = /52FC3072;
 Reference = C2;
 ValeurCmp = 1.0uF;
-IdModule  = SM0402_np;
+IdModule  = SMD_Packages:SMD-0603_c;
 EndCmp
 
 BeginCmp
 TimeStamp = /531B42E2;
 Reference = D1;
 ValeurCmp = LED;
-IdModule  = SM0603;
+IdModule  = SMD_Packages:SMD-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /531B4083;
 Reference = D2;
 ValeurCmp = LED;
-IdModule  = SM0603;
+IdModule  = SMD_Packages:SMD-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /52E9849C;
 Reference = J1;
-ValeurCmp = ARM_20PIN;
-IdModule  = ARM_20_PIN_TH_RIGHTANGLE;
+ValeurCmp = SFH11-PBPC-D10-RA-BK;
+IdModule  = kicadlib:ARM_20_PIN_TH_RIGHTANGLE;
 EndCmp
 
 BeginCmp
 TimeStamp = /52E97CAC;
 Reference = J2;
-ValeurCmp = ARM_10PIN;
-IdModule  = ARM_10_PIN;
+ValeurCmp = 20021111-00010T4LF;
+IdModule  = kicadlib:ARM_10_PIN;
 EndCmp
 
 BeginCmp
 TimeStamp = /531B42E8;
 Reference = R1;
 ValeurCmp = 1K;
-IdModule  = SM0402_np;
+IdModule  = SMD_Packages:SMD-0603_r;
 EndCmp
 
 BeginCmp
 TimeStamp = /531B40CC;
 Reference = R2;
 ValeurCmp = 500R;
-IdModule  = SM0402_np;
+IdModule  = SMD_Packages:SMD-0603_r;
 EndCmp
 
 BeginCmp
 TimeStamp = /52FC3911;
 Reference = SW1;
-ValeurCmp = DUAL_SWITCH_INV;
-IdModule  = SWITCH_SLIDE_SSSS810701;
+ValeurCmp = SSSS810701;
+IdModule  = kicadlib:SWITCH_SLIDE_SSSS810701;
 EndCmp
 
 BeginCmp
 TimeStamp = /52FC2F3B;
 Reference = U1;
-ValeurCmp = AAT3221 or LP5907;
-IdModule  = sot23-5_noah;
+ValeurCmp = MIC5504-3.3YM5 TR;
+IdModule  = kicadlib:sot23-5_noah;
 EndCmp
 
 EndListe
