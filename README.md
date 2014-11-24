@@ -14,7 +14,7 @@ parts
 [mouser](http://www.mouser.com/ProductDetail/FCI/20021111-00010T4LF/?qs=sGAEpiMZZMs%252bGHln7q6pmwodwKqstCempwNsK2c%2fC6s%3d)  
 [ebay](http://www.ebay.com/itm/12-pcs-Gold-Plated-1-27mm-2x40-80pin-Breakable-Pin-Header-Male-Double-Row-Strip-/370935487630?pt=LH_DefaultDomain_0&hash=item565d7a5c8e)  
   
-[shrouded, digikey](http://www.digikey.com/product-search/en?WT.z_header=search_go&lang=en&site=us&keywords=1175-1629&x=0&y=0&formaction=on)  
+[shrouded, digikey](http://www.digikey.com/product-detail/en/3220-10-0100-00/1175-1627-ND/3883661)  
 
 20 pin through hole female connector
 -----
