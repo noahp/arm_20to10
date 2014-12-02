@@ -14,7 +14,7 @@ parts
 [mouser](http://www.mouser.com/ProductDetail/FCI/20021111-00010T4LF/?qs=sGAEpiMZZMs%252bGHln7q6pmwodwKqstCempwNsK2c%2fC6s%3d)  
 [ebay](http://www.ebay.com/itm/12-pcs-Gold-Plated-1-27mm-2x40-80pin-Breakable-Pin-Header-Male-Double-Row-Strip-/370935487630?pt=LH_DefaultDomain_0&hash=item565d7a5c8e)  
   
-[shrouded, digikey](http://www.digikey.com/product-search/en?WT.z_header=search_go&lang=en&site=us&keywords=1175-1629&x=0&y=0&formaction=on)  
+[shrouded, digikey](http://www.digikey.com/product-detail/en/3220-10-0100-00/1175-1627-ND/3883661)  
 
 20 pin through hole female connector
 -----
@@ -27,7 +27,7 @@ parts
 [mouser- skyworks sot23-5](http://www.mouser.com/ProductDetail/Skyworks-Solutions-Inc/AAT3223IGU-33-T1/?qs=sGAEpiMZZMsGz1a6aV8DcBc9KxeEYlaaHoWA415Wy2k%3d)  
 [mouser- TI sot23-5](http://www.mouser.com/ProductDetail/Texas-Instruments/LP5907MFX-33-NOPB/?qs=sGAEpiMZZMsGz1a6aV8DcHd1yzolGFo2Xmtn9ZKMxmA%3d)  
 [digikey- TI sot23-5](http://www.digikey.com/product-detail/en/TLV70233DBVR/296-32415-1-ND/3505572)  
-[mouser- Micrel 4-DFN 300mA](http://www.mouser.com/ProductDetail/Micrel/MIC5504-33YMT-T5/?qs=sGAEpiMZZMsGz1a6aV8DcOT%252bROh543eTKGEDbbC6ZTY%3d) | [drawing](http://www.micrel.com/_Packages/TDFN1010-4LD-PL-1.pdf)  
+[digikey- Micrel sot23-5 300mA](http://www.digikey.com/product-detail/en/MIC5504-3.3YM5%20TR/576-4764-1-ND/4864028)  
 
 beefier ldo
 ----
