@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source C:/Users/npendlet/Desktop/misc/temp/arm_20to10/arm_20to10.sch)
+    (source arm_20to10.sch)
     (date "10/28/2014 8:24:01 AM")
     (tool "Eeschema (2014-10-18 BZR 5203)-product"))
   (components
