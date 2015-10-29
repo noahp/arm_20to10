@@ -6,6 +6,10 @@ render
 =====
 ![front](https://raw.githubusercontent.com/noahp/arm_20to10/master/front.png). . . . . .  ![back](https://raw.githubusercontent.com/noahp/arm_20to10/master/back.png)
 
+assembled drawing
+=====
+<img src="https://raw.githubusercontent.com/noahp/arm_20to10/master/assembled_picture.jpg" width="480">
+
 parts
 =====
 10 pin through hole male connector
