@@ -1,31 +1,31 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-18 BZR 5203)-product   date = 10/28/2014 3:20:08 PM
+Cmp-Mod V01 Created by Cvpcb (2014-10-18 BZR 5203)-product   date = 11/5/2015 12:58:05 PM
 
 BeginCmp
 TimeStamp = /531B43FC;
 Reference = C1;
 ValeurCmp = 1.0uF;
-IdModule  = SMD_Packages:SMD-0603_c;
+IdModule  = kicadlib:SMD_0603_C;
 EndCmp
 
 BeginCmp
 TimeStamp = /52FC3072;
 Reference = C2;
 ValeurCmp = 1.0uF;
-IdModule  = SMD_Packages:SMD-0603_c;
+IdModule  = kicadlib:SMD_0603_C;
 EndCmp
 
 BeginCmp
 TimeStamp = /531B42E2;
 Reference = D1;
 ValeurCmp = LED;
-IdModule  = SMD_Packages:SMD-0603;
+IdModule  = kicadlib:SMD_0603_LED;
 EndCmp
 
 BeginCmp
 TimeStamp = /531B4083;
 Reference = D2;
 ValeurCmp = LED;
-IdModule  = SMD_Packages:SMD-0603;
+IdModule  = kicadlib:SMD_0603_LED;
 EndCmp
 
 BeginCmp
@@ -46,14 +46,14 @@ BeginCmp
 TimeStamp = /531B42E8;
 Reference = R1;
 ValeurCmp = 1K;
-IdModule  = SMD_Packages:SMD-0603_r;
+IdModule  = kicadlib:SMD_0603_R;
 EndCmp
 
 BeginCmp
 TimeStamp = /531B40CC;
 Reference = R2;
 ValeurCmp = 500R;
-IdModule  = SMD_Packages:SMD-0603_r;
+IdModule  = kicadlib:SMD_0603_R;
 EndCmp
 
 BeginCmp
