@@ -2,11 +2,16 @@ arm_20to10
 =====
 20-pin to 10-pin ARM JTAG/SWD adapter.
 
-render
+pcb render
 =====
 ![front](https://raw.githubusercontent.com/noahp/arm_20to10/master/front.png). . . . . .  ![back](https://raw.githubusercontent.com/noahp/arm_20to10/master/back.png)
 
-assembled drawing
+assembly render
+=====
+![top](https://raw.githubusercontent.com/noahp/arm_20to10/master/3drender_top.png)
+![iso](https://raw.githubusercontent.com/noahp/arm_20to10/master/3drender_iso.png)
+
+assembled unit
 =====
 <img src="https://raw.githubusercontent.com/noahp/arm_20to10/master/assembled_picture.jpg" width="480">
 
