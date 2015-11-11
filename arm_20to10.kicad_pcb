@@ -1,4 +1,4 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.0-rc1-stable)
+(kicad_pcb (version 4) (host pcbnew 4.0.0-rc2-stable)
 
   (general
     (links 32)
@@ -32,7 +32,7 @@
   )
 
   (setup
-    (last_trace_width 0.35)
+    (last_trace_width 0.254)
     (user_trace_width 0.35)
     (trace_clearance 0.254)
     (zone_clearance 0.254)
