@@ -1,6 +1,8 @@
 arm_20to10
 =====
-20-pin to 10-pin ARM JTAG/SWD adapter.
+20-pin to 10-pin ARM JTAG/SWD adapter, with toggle-able 3.3v LDO 
+to power the target (jlink can output 5.0v on pin 19 of the arm 
+20-pin connector).
 
 pcb render
 =====
